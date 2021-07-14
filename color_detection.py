@@ -3,8 +3,8 @@ import cv2
 
 # opencv stores in BGR format and not RGB format
 
-img_path = '2.jpg'
-# img_path = '3.jpg'
+# img_path = '2.jpg'
+img_path = '3.jpg'
 csv_path = 'colors.csv'
 
 index = ['color', 'color_name', 'hex', 'R', 'G', 'B']
